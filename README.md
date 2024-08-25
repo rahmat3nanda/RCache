@@ -18,6 +18,13 @@
 - **Flutter**: Cross-platform API for consistent data handling across iOS, macOS, and Android.
 - **Easy Integration**: AAvailable via CocoaPods, Swift Package Manager (SPM), JitPack, and pub.dev.
 
+## Installation
+You can read the installation in `README.md` on each platform.
+
+- [IOS & macOS](https://github.com/rahmat3nanda/RCache-Swift)
+- [Flutter](https://github.com/rahmat3nanda/RCache-Flutter)
+- [Android](https://github.com/rahmat3nanda/RCache-Android)
+
 ## License
 RCache is released under the MIT License. See the [LICENSE](https://github.com/rahmat3nanda/RCache?tab=MIT-1-ov-file) file for details.
 
