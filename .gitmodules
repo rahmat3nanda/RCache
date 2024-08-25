@@ -1,0 +1,9 @@
+[submodule "RCache-Android"]
+	path = RCache-Android
+	url = https://github.com/rahmat3nanda/RCache-Android
+[submodule "RCache-Swift"]
+	path = RCache-Swift
+	url = https://github.com/rahmat3nanda/RCache-Swift
+[submodule "RCache-Flutter"]
+	path = RCache-Flutter
+	url = https://github.com/rahmat3nanda/RCache-Flutter
